@@ -4,7 +4,7 @@ This checklist is required anytime you are preparing to push code to the remote 
 - [] I've removed all comments I created
 - [] I've removed all console.logs I created
 - [] I've reviewed my own work
-- [] My work runs in at *least* two browsers (Chrome, Firefox, Safari, Edge, etc.)
+- [] My work runs in at *least* two extra browsers (Chrome, Firefox, Safari, Edge, etc.)
 - [] My work addresses the Issue in full
 - [] My work DOES NOT address anything not specified in the Issue
 - [] I've cleared up questions about the Issue
