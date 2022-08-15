@@ -53,8 +53,9 @@ Tasks include:
 
 ### Task 6
 - Submit your branch for a Pull Request
+-  Include a description for all pull requests.
+- #### Ex: "I am completing the final task for onboarding"
+- Click the "enable auto-merge" button
+- Delete your local branch
+- #### Ex: `git checkout main` then `git branch -D feature/add-my-name-brawblan`
 - [Loom Follow Along](https://www.loom.com/share/6071b5a172d5430bb4f4a4acd6cab08a)
-
-### Task 7
-- Once your Pull Request has been approved then you will complete the merge and delete your branch.
-- [Loom Follow Along](https://www.loom.com/share/a0bdd60780524a67b8cf54305ddac423)
