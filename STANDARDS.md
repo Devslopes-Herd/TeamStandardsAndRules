@@ -25,22 +25,22 @@ Tasks include:
 ### Task 1
 - Clone the project.
 - Tips: If you don't already have one, create a folder on your Desktop to hold these projects. This is where you'll easily clone and keep up with your projects.
-- [Loom Follow Along](https://www.loom.com)
+- [Loom Follow Along](https://www.loom.com/share/24c909ee1a104d6f9f1332d91d796d93)
 
 ### Task 2
 - Open the project and create a new branch.
 - Name this branch `feature/add-my-name-<name>`
-- [Loom Follow Along](https://www.loom.com)
+- [Loom Follow Along](https://www.loom.com/share/69914989d7da4f6badc99b0928e4d56b)
 
 ### Task 3
 - Open the `standards-task.html` file.
 - Add a new `<li>` element under the last `<li>` and add your name or nickname/GitHub handle.
 - Save the file when you're done.
-- [Loom Follow Along](https://www.loom.com)
+- [Loom Follow Along](https://www.loom.com/share/a1aa9337fece474c83a5d4da87ff2dfa)
 
 ### Task 4
 - Complete the *Definition of Ready* check to make sure you are good to go.
-- [Loom Follow Along](https://www.loom.com)
+- [Loom Follow Along](https://www.loom.com/share/fbdf10a0e6374439b4e47d1363ad5d6b)
 
 ### Task 5
 - Stage your files, add the commit message "feat: complete task", and push your branch to the repo.
