@@ -25,7 +25,7 @@ Tasks include:
 ### Task 1
 - Clone the project.
 - Tips: If you don't already have one, create a folder on your Desktop to hold these projects. This is where you'll easily clone and keep up with your projects.
-- [Loom Follow Along](https://www.loom.com/share/24c909ee1a104d6f9f1332d91d796d93)
+- [Loom Follow Along](https://www.loom.com/share/24c909ee1a104d6f9f1332d91d796d93){:target="_blank"}
 
 ### Task 2
 - Open the project and create a new branch.
