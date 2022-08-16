@@ -11,6 +11,17 @@ It is also understood that you will read the documentation to be sure you are do
 It is *AGAINST THE RULES* to use the built-in GUI on projects for this team. You *MUST* use the command line. This rule is only made to serve *YOU* better.
 You can checkout this article on some of the most used Git commands. [Git Medium Article](https://brandonblankenstein.medium.com/can-i-use-the-built-in-git-gui-in-vs-code-89546cf9c7a)
 
+### Default Branch
+It is common practice to have different branches to serve important purposes.
+For this organization, the two branches you will always have in a repository will be:
+- `main` branch
+ - This branch is used for deployment to production.
+ - Merging into this branch is PROHIBITED unless the proper steps are being followed.
+- `develop` branch
+ - This branch is used for making updates to the repository.
+ - When you create your feature branch it should be based off the `develop` branch.
+ - When you submit a pull request it should be into the `develop` branch.
+
 ## TASKS
 These tasks will help prepare you to make contributions to your team's projects.
 Tasks include:
@@ -29,7 +40,7 @@ Tasks include:
 - [Loom Follow Along](https://www.loom.com/share/24c909ee1a104d6f9f1332d91d796d93)
 
 ### Task 2
-- Open the project, create a new branch, and name as directed below.
+- Open the project, create a new branch based off the `develop` branch, and name as directed below.
 - Name this branch `feature/add-my-name-<github-handle>`
 - #### Ex: `feature/add-my-name-brawblan`
 - [Loom Follow Along](https://www.loom.com/share/69914989d7da4f6badc99b0928e4d56b)
@@ -43,19 +54,25 @@ Tasks include:
 
 ### Task 4
 - Read the *Definition of Ready*.
-- Not required to advance to Task 5.
-- This will be required
+- **Not required** to advance to Task 5.
+- This will be **required** when you submit Pull Requests in projects.
 - [Loom Follow Along](https://www.loom.com/share/fbdf10a0e6374439b4e47d1363ad5d6b)
 
 ### Task 5
 - Stage your files, add the commit message "feat: complete task", and push your branch to the repo.
+- #### Ex: 
+```
+git add .
+git commit -m "<message>"
+git push origin develop
+```
 - [Loom Follow Along](https://www.loom.com/share/1b9efb41afd348758f298bb4d78836c0)
 
 ### Task 6
-- Submit your branch for a Pull Request
--  Include a description for all pull requests.
+- Submit your branch for a Pull Request to the `develop` branch
+- Include a description for all Pull Requests.
 - #### Ex: "I am completing the final task for onboarding"
 - Click the "enable auto-merge" button
 - Delete your local branch
-- #### Ex: `git checkout main` then `git branch -D feature/add-my-name-brawblan`
+- #### Ex: `git checkout develop` then `git branch -D feature/add-my-name-brawblan`
 - [Loom Follow Along](https://www.loom.com/share/6071b5a172d5430bb4f4a4acd6cab08a)
