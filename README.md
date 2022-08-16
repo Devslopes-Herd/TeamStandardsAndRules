@@ -2,6 +2,7 @@
 
 ## Welcome! 
 Reading this must mean that you've decided to join a Devslopes group project!
+### You must be a member of the Devslopes-Herd and Devslopes Academy. You may not participate in this repo if you are not a member.
 
 ## First Steps
 This readme file is short because there are two important documents that you *MUST* read.
